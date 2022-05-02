@@ -1,0 +1,19 @@
+#first-div {
+    color: rgb(10, 102, 200);
+    font-size: 36px;
+}
+
+#second-div {
+    background-color: #77e56c;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd {
+    background-color: hsl(0, 70%, 76%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
